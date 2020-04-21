@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vanilla Tilt.js</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="box">
+            <div class="imgBx">
+                <img src="img1.jpg" alt="">
+                <!-- <img src="https://picsum.photos/300/200/?random=1"> -->
+                <!-- <img src="https://fakeimg.pl/300x200/#333"> -->
+
+            </div>
+            <div class="contentBx">
+                <h2>
+                </h2>
+                Tilt Box Hover Effects
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            </div>
+        </div>
+        <div class="box">
+            <div class="imgBx">
+                <img src="img2.jpg" alt="">
+                <!-- <img src="https://picsum.photos/300/200/?random=2"> -->
+                <!-- <img src="https://fakeimg.pl/300x200/#666"> -->
+            </div>
+            <div class="contentBx">
+                <h2>
+                </h2>
+                Tilt Box Hover Effects
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt animi ad mollitia non ipsa ullam
+                    cupiditate itaque provident voluptates voluptatibus, aliquam similique odit molestiae, quibusdam
+                    laborum exercitationem, fuga quod! Nisi eum quo et praesentium, voluptatem illo. Perspiciatis dicta
+                    neque impedit praesentium in eaque commodi sint recusandae, libero vitae eligendi qui.</p>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="vanilla-tilt.js"></script>
+    <script type="text/javascript">
+        VanillaTilt.init(document.querySelectorAll(".box"), {
+            max: 25,
+            speed: 400
+        });
+    </script>
+</body>
+
+</html>
