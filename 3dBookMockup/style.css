@@ -58,6 +58,7 @@ body {
 .book h2 span {
   background: url(bg.jpg);
   background-attachment: fixed;
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
