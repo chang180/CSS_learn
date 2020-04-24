@@ -1,5 +1,10 @@
 從教學影片跟打的CSS效果
 
+## 20200424
+
+add socialMediaButton
+https://www.youtube.com/watch?v=a7PHhF5Vw5w
+
 ## 20200423
 
 add 3dBookMockup
