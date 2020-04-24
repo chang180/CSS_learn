@@ -2,6 +2,9 @@
 
 ## 20200424
 
+add responsive2018 (Responsive Box Mode UI)
+https://www.youtube.com/watch?v=u5llIESEPqA
+
 add socialMediaButton
 https://www.youtube.com/watch?v=a7PHhF5Vw5w
 
