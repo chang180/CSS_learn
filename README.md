@@ -2,6 +2,9 @@
 
 ## 20200426
 
+add buttonRipple2 (**not working properly**)
+https://www.youtube.com/watch?v=JxpcecbXxvM
+
 add contactInfo
 https://www.youtube.com/watch?v=Va_wdFgvG2U
 
