@@ -2,6 +2,9 @@
 
 ## 20200426
 
+add contactInfo
+https://www.youtube.com/watch?v=Va_wdFgvG2U
+
 add BounceAni
 https://www.youtube.com/watch?v=OTlmenOLEow&feature=emb_logo    
 
