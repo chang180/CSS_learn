@@ -1,5 +1,10 @@
 從教學影片跟打的CSS效果
 
+## 20200426
+
+add BounceAni
+https://www.youtube.com/watch?v=OTlmenOLEow&feature=emb_logo    
+
 ## 20200425
 
 add BannerAni (Ramadan Kareem 2020 with particles.js)
