@@ -1,5 +1,10 @@
 從教學影片跟打的CSS效果
 
+## 20200427
+
+add splitBanner
+https://www.youtube.com/watch?time_continue=25&v=sAfFCbx2KLg&feature=emb_logo
+
 ## 20200426
 
 add buttonRipple2 (**not working properly**)

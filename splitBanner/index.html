@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Split Banner on Scroll</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <section>
+        <div class="side" id="side1"></div>
+        <div class="side" id="side2"></div>
+    </section>
+    <div class="contentBx">
+        <h2>Split Banner on Page Scroll</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui incidunt nostrum recusandae optio provident
+            harum dolorum neque aut, sapiente autem, expedita dolor facilis voluptatem necessitatibus fugiat quam itaque
+            facere velit inventore dolorem a ut. Corporis non vel iusto ipsa soluta ea atque facere voluptas, inventore
+            provident doloremque aliquam consectetur obcaecati repudiandae? Ex aperiam provident soluta sint harum porro
+            similique magnam in perferendis! Pariatur dolor quia quidem non a ab cupiditate odio nemo vero accusamus
+            commodi voluptatum iusto architecto doloremque aliquid aperiam culpa doloribus, excepturi id nihil, natus
+            eligendi et. Doloremque fugiat excepturi ipsa porro iure, praesentium itaque explicabo molestiae id facilis
+            velit dolorum accusantium, </p>
+        <p>provident quod corrupti quae voluptas, dolor libero nostrum voluptate! Sapiente provident at odio voluptates
+            neque laborum nesciunt quisquam quibusdam reprehenderit soluta. Eveniet quas tempore dolores et minima
+            consequuntur assumenda aliquid, neque dignissimos repellendus, magni laudantium similique quae voluptatem
+            placeat maiores quis explicabo quibusdam. Nihil repudiandae numquam ratione itaque modi debitis ipsam in
+            beatae veniam ut, consequatur, autem unde dicta tenetur nostrum aliquid impedit ab inventore possimus?
+            Assumenda a delectus totam libero eum. Ea asperiores maiores in! Ipsum error quis reprehenderit officiis
+            repellendus assumenda autem atque, doloribus temporibus natus molestiae obcaecati, inventore corporis
+            nostrum fugiat in nobis.</p>
+    </div>
+    <script type="text/javascript">
+        var side1 = document.getElementById("side1");
+        window.addEventListener("scroll", function () {
+            side1.style.left = -window.pageYOffset + "px";
+        })
+        var side2 = document.getElementById("side2");
+        window.addEventListener("scroll", function () {
+            side2.style.left = window.pageYOffset + "px";
+        })
+    </script>
+
+</body>
+
+</html>
