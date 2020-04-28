@@ -1,5 +1,10 @@
 從教學影片跟打的CSS效果
 
+## 20200428
+
+add boxModel
+https://www.youtube.com/watch?v=e2RQM4pE8uI
+
 ## 20200427
 
 add splitBanner
