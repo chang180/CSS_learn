@@ -1,5 +1,11 @@
 從教學影片跟打的CSS效果
 
+## 20200430
+
+add waveShapeBanner
+https://getwaves.io/ (Used to create SVG)
+https://www.youtube.com/watch?v=2nA3o9V2bfI
+
 ## 20200428
 
 add boxModel
