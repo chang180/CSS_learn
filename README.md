@@ -1,5 +1,10 @@
 從教學影片跟打的CSS效果
 
+## 2020/05/06
+
+add cloudBanner
+https://www.youtube.com/watch?v=FWW38GuIo7M
+
 ## 2020/05/05
 
 add softBoxShadow
