@@ -1,5 +1,10 @@
 從教學影片跟打的CSS效果
 
+## 2020/05/09
+
+add horizontal_page
+https://www.youtube.com/watch?v=SuLSr3Dq9tk&feature=emb_logo
+
 ## 2020/05/06
 
 add cloudBanner
