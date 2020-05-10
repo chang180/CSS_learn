@@ -1,5 +1,10 @@
 從教學影片跟打的CSS效果
 
+## 2020/05/10
+
+add menu_items_hover
+https://www.youtube.com/watch?v=2Z_iYYmbnUY
+
 ## 2020/05/09
 
 add horizontal_page
