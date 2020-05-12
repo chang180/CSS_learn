@@ -1,5 +1,9 @@
 從教學影片跟打的CSS效果
 
+## 2020/05/12 
+add wavy_circle
+https://www.youtube.com/watch?v=d7-E-V4L6Cs&feature=emb_logo
+
 ## 2020/05/11 (A tutorail for using calc())
 
 https://www.youtube.com/watch?v=40BiK5a-Dvc&feature=emb_logo
