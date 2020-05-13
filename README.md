@@ -1,5 +1,10 @@
 從教學影片跟打的CSS效果
 
+## 2020/05/13
+add swiper_slider
+https://www.youtube.com/watch?time_continue=2&v=kX6MLRc_Qmg&feature=emb_logo
+https://swiperjs.com/
+
 ## 2020/05/12 
 add wavy_circle
 https://www.youtube.com/watch?v=d7-E-V4L6Cs&feature=emb_logo
