@@ -1,8 +1,14 @@
 從教學影片跟打的CSS效果
 
+## 2020/05/19
+
+add amazing-search-screen
+https://www.youtube.com/watch?v=rR2CHWrmIvI
+
+
 ## 2020/05/15
 
-add 
+add action_button
 
 ## 2020/05/13
 
