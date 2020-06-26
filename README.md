@@ -1,5 +1,10 @@
 從教學影片跟打的CSS效果
 
+## 2020/06/26
+
+add analog-clock
+https://www.youtube.com/watch?v=94TKO4eKfIA
+
 ## 2020/06/20
 add random-password
 https://www.youtube.com/watch?v=fOvYE1i_IiY
