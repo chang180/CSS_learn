@@ -1,5 +1,10 @@
 從教學影片跟打的CSS效果
 
+## 2020/09/01
+
+add frosted-scratch
+https://www.youtube.com/watch?v=Zk_q0GqY3Fc
+
 ## 2020/06/26
 
 add analog-clock
