@@ -1,5 +1,10 @@
 從教學影片跟打的CSS效果
 
+## 2020/09/04
+
+add apple-device-mockup
+https://www.youtube.com/watch?v=TB5b258Vy7U
+
 ## 2020/09/01
 
 add frosted-scratch
