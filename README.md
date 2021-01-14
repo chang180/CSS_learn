@@ -1,5 +1,9 @@
 從教學影片跟打的CSS效果
 
+## 2021/01/14
+add responsive-card-hover
+https://www.youtube.com/watch?v=VKcbZGW1woc
+
 ## 2021/01/13
 
 add SVG-liquid
