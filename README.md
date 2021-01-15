@@ -1,5 +1,8 @@
 從教學影片跟打的CSS效果
 
+##2021/01/15
+add js-animation
+https://www.youtube.com/watch?v=abo0x86sQb4
 ## 2021/01/14
 add responsive-card-hover
 https://www.youtube.com/watch?v=VKcbZGW1woc
