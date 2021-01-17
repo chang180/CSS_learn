@@ -1,4 +1,7 @@
-從教學影片跟打的CSS效果
+# 從教學影片跟打的CSS效果
+
+add js-animaition2
+https://www.youtube.com/watch?v=PdNOq7VszY8
 
 ## 2021/01/15
 add custom-checkbox
