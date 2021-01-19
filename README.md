@@ -1,5 +1,9 @@
 # 從教學影片跟打的CSS效果
 
+## 2020/01/19
+add circle-progress-bar
+https://www.youtube.com/watch?v=Ft73g5Kyknw
+
 ## 2020/01/18
 add tv-noise
 https://www.youtube.com/watch?v=z1ES-oz4SbM
