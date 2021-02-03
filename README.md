@@ -1,14 +1,17 @@
 # 從教學影片跟打的CSS效果
 
-## 2020/01/19
+## 2021/0203
+add css-animation-loading
+https://www.youtube.com/watch?v=ZZBGFMREntY
+## 2021/01/19
 add circle-progress-bar
 https://www.youtube.com/watch?v=Ft73g5Kyknw
 
-## 2020/01/18
+## 2021/01/18
 add tv-noise
 https://www.youtube.com/watch?v=z1ES-oz4SbM
 
-## 2020/01/16
+## 2021/01/16
 add js-animaition2
 https://www.youtube.com/watch?v=PdNOq7VszY8
 
