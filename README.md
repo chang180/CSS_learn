@@ -1,6 +1,10 @@
 # 從教學影片跟打的CSS效果
 
-## 2021/0203
+## 2021/02/18
+add flying-text-animation
+https://www.youtube.com/watch?v=GWLB00EvhE8
+
+## 2021/02/03
 add css-animation-loading
 https://www.youtube.com/watch?v=ZZBGFMREntY
 ## 2021/01/19
