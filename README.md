@@ -1,5 +1,9 @@
 # 從教學影片跟打的CSS效果
 
+## 2021/03/27
+add track-stuck-ship
+https://www.youtube.com/watch?v=3-eJcRZ23Rw
+
 ## 2021/03/01
 add dropdown-navigation-menu
 https://www.youtube.com/watch?v=yNlHBfxgJVY
