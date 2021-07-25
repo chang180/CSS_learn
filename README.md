@@ -1,5 +1,9 @@
 # 從教學影片跟打的CSS效果
 
+## 2021/07/25
+add responsive-website-layout
+https://www.youtube.com/watch?v=bE1iGPZ2xq0
+
 ## 2021/06/15
 add google-search-design
 https://www.youtube.com/watch?v=iQeb3TCC8Ak
